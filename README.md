@@ -1,6 +1,6 @@
 # Booomi String Map Function Error
 
-If you are trying to use a String Map Function and get a syntax error that looks like a Java language parsing error, please use escape characters to mitigate the error.
+If you are trying to use a String Map Function in Boomi and get a syntax error that looks like a Java language parsing error, please use an escape character to mitigate the error.
 
 For example, if you are using the String Remove function to remove a **dot (.)** from the incoming string, then use **backslash (\)** as an escape character, as per the below screenshot.
 
