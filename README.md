@@ -6,4 +6,4 @@ For example, if you are using the String Remove function to remove a **dot (.)**
 
 ![image](https://github.com/ayanpan/boomi-string-map-function-error/assets/12267939/55903792-3f7a-4440-82ae-7e2df01e457e)
 
-**Note:** Please feel free to add your experiences related to String Map Function in this email-chain.
+**Note:** Please feel free to add your experiences related to String Map Function in the comments.
